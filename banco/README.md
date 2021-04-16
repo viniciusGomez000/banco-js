@@ -2,23 +2,33 @@
 
 ## Requisitos
 
-PowerShell
-Node.js
+```
+    ・ PowerShell
+    ・ Node.js
+```
 
 ## Sistemas
 
-Depositar
-
-Sacar
-
-Transferir
-
-Criar contas de poupança
-
-Criar contas Correntes
+```
+    ・ Depositar
+    
+    ・ Sacar
+    
+    ・ Transferir
+    
+    ・ Criar contas de poupança
+    
+    ・ Criar contas Correntes
+```
 
 ## Para executar o código, use o comando:
 
-`
- node ./index.js
-`
+```
+    ・ node ./index.js
+```
+
+## Créditos:
+
+```
+    ・ Vinicius Gomez
+```
